@@ -1,2 +1,2 @@
-# RadyoUygulama  #c# Radio application
+# RadyoUygulama    c# Radio application
 c# Radyo Uygulaması
